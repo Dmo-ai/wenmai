@@ -42,3 +42,6 @@
 html,body{max-width:100%;overflow-x:hidden}main{overflow-x:clip;overflow-y:visible}.hero,.hero>*{min-width:0}.hero-copy{min-width:0}.hero-workbench:before{background:linear-gradient(180deg,rgba(16,17,12,.02) 0%,rgba(16,17,12,.04) 57%,rgba(16,17,13,.66) 100%)}.hero-workbench>img{object-position:center center}.hero-flow{box-shadow:0 12px 34px #0005}
 @media(max-width:700px){.hero{width:100%;padding-left:18px;padding-right:18px}.hero h1{max-width:100%;font-size:clamp(34px,10.4vw,44px);line-height:1.2;letter-spacing:-.04em;overflow-wrap:anywhere;word-break:normal}.hero-workbench{width:100%;min-height:0;aspect-ratio:4/5}.hero-workbench>img{object-fit:cover}.hero-output-grid{width:100%;min-width:0}.hero-output-grid button{min-width:0}.hero-output-grid b,.hero-output-grid small{white-space:normal}.hero-market-switch{top:88px}.hero-ai-note{right:13px;max-width:none}.hero-view-switch{bottom:92px}}
 
+/* complete generated artwork: use the finished image itself, without split/cropped presentation */
+.hero-workbench{background-image:url('/wenmai-hero-complete.jpg');background-size:cover;background-position:center}.hero-workbench>img{opacity:0}.hero-workbench.view-front>img,.hero-workbench.view-side>img,.hero-workbench.view-spin>img{transform:none;animation:none}
+
