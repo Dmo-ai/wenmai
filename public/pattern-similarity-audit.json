@@ -1,0 +1,1410 @@
+{
+  "generatedAt": "2026-10-02T04:06:37.786Z",
+  "records": 504,
+  "imagesChecked": 504,
+  "nearDuplicateThreshold": "dHash <= 3",
+  "nearDuplicatePairs": 11080,
+  "note": "The report keeps the first 200 pairs; rerun the script for a fresh full scan.",
+  "pairs": [
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-101",
+      "aName": "玄狐云环纹",
+      "bName": "白泽云环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-102",
+      "aName": "玄狐云环纹",
+      "bName": "应龙云环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-103",
+      "aName": "玄狐云环纹",
+      "bName": "青鸟云环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-104",
+      "aName": "玄狐云环纹",
+      "bName": "文鳐云环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-105",
+      "aName": "玄狐云环纹",
+      "bName": "鹿蜀云环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-106",
+      "aName": "玄狐云环纹",
+      "bName": "陆吾云环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-107",
+      "aName": "玄狐云环纹",
+      "bName": "玄狐回旋纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-108",
+      "aName": "玄狐云环纹",
+      "bName": "白泽回旋纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-109",
+      "aName": "玄狐云环纹",
+      "bName": "应龙回旋纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-110",
+      "aName": "玄狐云环纹",
+      "bName": "青鸟回旋纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-111",
+      "aName": "玄狐云环纹",
+      "bName": "文鳐回旋纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-112",
+      "aName": "玄狐云环纹",
+      "bName": "鹿蜀回旋纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-113",
+      "aName": "玄狐云环纹",
+      "bName": "陆吾回旋纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-114",
+      "aName": "玄狐云环纹",
+      "bName": "玄狐对峙纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-115",
+      "aName": "玄狐云环纹",
+      "bName": "白泽对峙纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-116",
+      "aName": "玄狐云环纹",
+      "bName": "应龙对峙纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-117",
+      "aName": "玄狐云环纹",
+      "bName": "青鸟对峙纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-118",
+      "aName": "玄狐云环纹",
+      "bName": "文鳐对峙纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-119",
+      "aName": "玄狐云环纹",
+      "bName": "鹿蜀对峙纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-120",
+      "aName": "玄狐云环纹",
+      "bName": "陆吾对峙纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-121",
+      "aName": "玄狐云环纹",
+      "bName": "玄狐逐浪纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-122",
+      "aName": "玄狐云环纹",
+      "bName": "白泽逐浪纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-123",
+      "aName": "玄狐云环纹",
+      "bName": "应龙逐浪纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-124",
+      "aName": "玄狐云环纹",
+      "bName": "青鸟逐浪纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-125",
+      "aName": "玄狐云环纹",
+      "bName": "文鳐逐浪纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-126",
+      "aName": "玄狐云环纹",
+      "bName": "鹿蜀逐浪纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-127",
+      "aName": "玄狐云环纹",
+      "bName": "陆吾逐浪纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-128",
+      "aName": "玄狐云环纹",
+      "bName": "玄狐守门纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-129",
+      "aName": "玄狐云环纹",
+      "bName": "白泽守门纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-130",
+      "aName": "玄狐云环纹",
+      "bName": "应龙守门纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-131",
+      "aName": "玄狐云环纹",
+      "bName": "青鸟守门纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-132",
+      "aName": "玄狐云环纹",
+      "bName": "文鳐守门纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-133",
+      "aName": "玄狐云环纹",
+      "bName": "鹿蜀守门纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-134",
+      "aName": "玄狐云环纹",
+      "bName": "陆吾守门纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-135",
+      "aName": "玄狐云环纹",
+      "bName": "玄狐星列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-136",
+      "aName": "玄狐云环纹",
+      "bName": "白泽星列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-137",
+      "aName": "玄狐云环纹",
+      "bName": "应龙星列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-138",
+      "aName": "玄狐云环纹",
+      "bName": "青鸟星列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-139",
+      "aName": "玄狐云环纹",
+      "bName": "文鳐星列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SH-100",
+      "b": "LW-SH-140",
+      "aName": "玄狐云环纹",
+      "bName": "鹿蜀星列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-101",
+      "aName": "莲华藻井纹",
+      "bName": "飞带藻井纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-102",
+      "aName": "莲华藻井纹",
+      "bName": "忍冬藻井纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-103",
+      "aName": "莲华藻井纹",
+      "bName": "联珠藻井纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-104",
+      "aName": "莲华藻井纹",
+      "bName": "三兔藻井纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-105",
+      "aName": "莲华藻井纹",
+      "bName": "火焰藻井纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-106",
+      "aName": "莲华藻井纹",
+      "bName": "宝盖藻井纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-107",
+      "aName": "莲华藻井纹",
+      "bName": "莲华旋瓣纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-108",
+      "aName": "莲华藻井纹",
+      "bName": "飞带旋瓣纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-109",
+      "aName": "莲华藻井纹",
+      "bName": "忍冬旋瓣纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-110",
+      "aName": "莲华藻井纹",
+      "bName": "联珠旋瓣纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-111",
+      "aName": "莲华藻井纹",
+      "bName": "三兔旋瓣纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-112",
+      "aName": "莲华藻井纹",
+      "bName": "火焰旋瓣纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-113",
+      "aName": "莲华藻井纹",
+      "bName": "宝盖旋瓣纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-114",
+      "aName": "莲华藻井纹",
+      "bName": "莲华环舞纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-115",
+      "aName": "莲华藻井纹",
+      "bName": "飞带环舞纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-116",
+      "aName": "莲华藻井纹",
+      "bName": "忍冬环舞纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-117",
+      "aName": "莲华藻井纹",
+      "bName": "联珠环舞纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-118",
+      "aName": "莲华藻井纹",
+      "bName": "三兔环舞纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-119",
+      "aName": "莲华藻井纹",
+      "bName": "火焰环舞纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-120",
+      "aName": "莲华藻井纹",
+      "bName": "宝盖环舞纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-121",
+      "aName": "莲华藻井纹",
+      "bName": "莲华连珠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-122",
+      "aName": "莲华藻井纹",
+      "bName": "飞带连珠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-123",
+      "aName": "莲华藻井纹",
+      "bName": "忍冬连珠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-124",
+      "aName": "莲华藻井纹",
+      "bName": "联珠连珠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-125",
+      "aName": "莲华藻井纹",
+      "bName": "三兔连珠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-126",
+      "aName": "莲华藻井纹",
+      "bName": "火焰连珠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-127",
+      "aName": "莲华藻井纹",
+      "bName": "宝盖连珠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-128",
+      "aName": "莲华藻井纹",
+      "bName": "莲华放射纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-129",
+      "aName": "莲华藻井纹",
+      "bName": "飞带放射纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-130",
+      "aName": "莲华藻井纹",
+      "bName": "忍冬放射纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-131",
+      "aName": "莲华藻井纹",
+      "bName": "联珠放射纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-132",
+      "aName": "莲华藻井纹",
+      "bName": "三兔放射纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-133",
+      "aName": "莲华藻井纹",
+      "bName": "火焰放射纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-134",
+      "aName": "莲华藻井纹",
+      "bName": "宝盖放射纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-135",
+      "aName": "莲华藻井纹",
+      "bName": "莲华云行纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-136",
+      "aName": "莲华藻井纹",
+      "bName": "飞带云行纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-137",
+      "aName": "莲华藻井纹",
+      "bName": "忍冬云行纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-138",
+      "aName": "莲华藻井纹",
+      "bName": "联珠云行纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-139",
+      "aName": "莲华藻井纹",
+      "bName": "三兔云行纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-DH-100",
+      "b": "LW-DH-140",
+      "aName": "莲华藻井纹",
+      "bName": "火焰云行纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-101",
+      "aName": "朝元云气环列纹",
+      "bName": "宝冠莲饰环列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-102",
+      "aName": "朝元云气环列纹",
+      "bName": "仪仗花枝环列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-103",
+      "aName": "朝元云气环列纹",
+      "bName": "衣带流云环列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-104",
+      "aName": "朝元云气环列纹",
+      "bName": "璎珞华叶环列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-105",
+      "aName": "朝元云气环列纹",
+      "bName": "天花瑞草环列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-106",
+      "aName": "朝元云气环列纹",
+      "bName": "星宿云章环列纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-107",
+      "aName": "朝元云气环列纹",
+      "bName": "朝元云气层叠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-108",
+      "aName": "朝元云气环列纹",
+      "bName": "宝冠莲饰层叠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-109",
+      "aName": "朝元云气环列纹",
+      "bName": "仪仗花枝层叠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-110",
+      "aName": "朝元云气环列纹",
+      "bName": "衣带流云层叠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-111",
+      "aName": "朝元云气环列纹",
+      "bName": "璎珞华叶层叠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-112",
+      "aName": "朝元云气环列纹",
+      "bName": "天花瑞草层叠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-113",
+      "aName": "朝元云气环列纹",
+      "bName": "星宿云章层叠纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-114",
+      "aName": "朝元云气环列纹",
+      "bName": "朝元云气对称纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-115",
+      "aName": "朝元云气环列纹",
+      "bName": "宝冠莲饰对称纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-116",
+      "aName": "朝元云气环列纹",
+      "bName": "仪仗花枝对称纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-117",
+      "aName": "朝元云气环列纹",
+      "bName": "衣带流云对称纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-118",
+      "aName": "朝元云气环列纹",
+      "bName": "璎珞华叶对称纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-119",
+      "aName": "朝元云气环列纹",
+      "bName": "天花瑞草对称纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-120",
+      "aName": "朝元云气环列纹",
+      "bName": "星宿云章对称纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-121",
+      "aName": "朝元云气环列纹",
+      "bName": "朝元云气升腾纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-122",
+      "aName": "朝元云气环列纹",
+      "bName": "宝冠莲饰升腾纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-123",
+      "aName": "朝元云气环列纹",
+      "bName": "仪仗花枝升腾纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-124",
+      "aName": "朝元云气环列纹",
+      "bName": "衣带流云升腾纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-125",
+      "aName": "朝元云气环列纹",
+      "bName": "璎珞华叶升腾纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-126",
+      "aName": "朝元云气环列纹",
+      "bName": "天花瑞草升腾纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-127",
+      "aName": "朝元云气环列纹",
+      "bName": "星宿云章升腾纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-128",
+      "aName": "朝元云气环列纹",
+      "bName": "朝元云气回护纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-129",
+      "aName": "朝元云气环列纹",
+      "bName": "宝冠莲饰回护纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-130",
+      "aName": "朝元云气环列纹",
+      "bName": "仪仗花枝回护纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-131",
+      "aName": "朝元云气环列纹",
+      "bName": "衣带流云回护纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-132",
+      "aName": "朝元云气环列纹",
+      "bName": "璎珞华叶回护纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-133",
+      "aName": "朝元云气环列纹",
+      "bName": "天花瑞草回护纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-134",
+      "aName": "朝元云气环列纹",
+      "bName": "星宿云章回护纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-135",
+      "aName": "朝元云气环列纹",
+      "bName": "朝元云气疏影纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-136",
+      "aName": "朝元云气环列纹",
+      "bName": "宝冠莲饰疏影纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-137",
+      "aName": "朝元云气环列纹",
+      "bName": "仪仗花枝疏影纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-138",
+      "aName": "朝元云气环列纹",
+      "bName": "衣带流云疏影纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-139",
+      "aName": "朝元云气环列纹",
+      "bName": "璎珞华叶疏影纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-YL-100",
+      "b": "LW-YL-140",
+      "aName": "朝元云气环列纹",
+      "bName": "天花瑞草疏影纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-100",
+      "aName": "兽面中轴纹",
+      "bName": "冰裂梅影漏窗纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-101",
+      "aName": "兽面中轴纹",
+      "bName": "夔龙中轴纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-101",
+      "aName": "兽面中轴纹",
+      "bName": "步锦海棠漏窗纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-102",
+      "aName": "兽面中轴纹",
+      "bName": "凤鸟中轴纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-102",
+      "aName": "兽面中轴纹",
+      "bName": "六角龟背漏窗纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-103",
+      "aName": "兽面中轴纹",
+      "bName": "蟠虺中轴纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-103",
+      "aName": "兽面中轴纹",
+      "bName": "万字回环漏窗纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-104",
+      "aName": "兽面中轴纹",
+      "bName": "窃曲中轴纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-104",
+      "aName": "兽面中轴纹",
+      "bName": "如意云头漏窗纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-105",
+      "aName": "兽面中轴纹",
+      "bName": "乳钉中轴纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-105",
+      "aName": "兽面中轴纹",
+      "bName": "葵花套方漏窗纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-106",
+      "aName": "兽面中轴纹",
+      "bName": "云雷中轴纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-106",
+      "aName": "兽面中轴纹",
+      "bName": "竹节连枝漏窗纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-107",
+      "aName": "兽面中轴纹",
+      "bName": "兽面回环纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-107",
+      "aName": "兽面中轴纹",
+      "bName": "冰裂梅影借景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-108",
+      "aName": "兽面中轴纹",
+      "bName": "夔龙回环纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-108",
+      "aName": "兽面中轴纹",
+      "bName": "步锦海棠借景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-109",
+      "aName": "兽面中轴纹",
+      "bName": "凤鸟回环纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-109",
+      "aName": "兽面中轴纹",
+      "bName": "六角龟背借景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-110",
+      "aName": "兽面中轴纹",
+      "bName": "蟠虺回环纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-110",
+      "aName": "兽面中轴纹",
+      "bName": "万字回环借景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-111",
+      "aName": "兽面中轴纹",
+      "bName": "窃曲回环纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-111",
+      "aName": "兽面中轴纹",
+      "bName": "如意云头借景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-112",
+      "aName": "兽面中轴纹",
+      "bName": "乳钉回环纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-112",
+      "aName": "兽面中轴纹",
+      "bName": "葵花套方借景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-113",
+      "aName": "兽面中轴纹",
+      "bName": "云雷回环纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-113",
+      "aName": "兽面中轴纹",
+      "bName": "竹节连枝借景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-114",
+      "aName": "兽面中轴纹",
+      "bName": "兽面带状纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-114",
+      "aName": "兽面中轴纹",
+      "bName": "冰裂梅影套方纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-115",
+      "aName": "兽面中轴纹",
+      "bName": "夔龙带状纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-115",
+      "aName": "兽面中轴纹",
+      "bName": "步锦海棠套方纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-116",
+      "aName": "兽面中轴纹",
+      "bName": "凤鸟带状纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-116",
+      "aName": "兽面中轴纹",
+      "bName": "六角龟背套方纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-117",
+      "aName": "兽面中轴纹",
+      "bName": "蟠虺带状纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-117",
+      "aName": "兽面中轴纹",
+      "bName": "万字回环套方纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-118",
+      "aName": "兽面中轴纹",
+      "bName": "窃曲带状纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-118",
+      "aName": "兽面中轴纹",
+      "bName": "如意云头套方纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-119",
+      "aName": "兽面中轴纹",
+      "bName": "乳钉带状纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-119",
+      "aName": "兽面中轴纹",
+      "bName": "葵花套方套方纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-120",
+      "aName": "兽面中轴纹",
+      "bName": "云雷带状纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-120",
+      "aName": "兽面中轴纹",
+      "bName": "竹节连枝套方纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-121",
+      "aName": "兽面中轴纹",
+      "bName": "兽面双夔纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-121",
+      "aName": "兽面中轴纹",
+      "bName": "冰裂梅影穿插纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-122",
+      "aName": "兽面中轴纹",
+      "bName": "夔龙双夔纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-122",
+      "aName": "兽面中轴纹",
+      "bName": "步锦海棠穿插纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-123",
+      "aName": "兽面中轴纹",
+      "bName": "凤鸟双夔纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-123",
+      "aName": "兽面中轴纹",
+      "bName": "六角龟背穿插纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-124",
+      "aName": "兽面中轴纹",
+      "bName": "蟠虺双夔纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-124",
+      "aName": "兽面中轴纹",
+      "bName": "万字回环穿插纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-125",
+      "aName": "兽面中轴纹",
+      "bName": "窃曲双夔纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-125",
+      "aName": "兽面中轴纹",
+      "bName": "如意云头穿插纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-126",
+      "aName": "兽面中轴纹",
+      "bName": "乳钉双夔纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-126",
+      "aName": "兽面中轴纹",
+      "bName": "葵花套方穿插纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-127",
+      "aName": "兽面中轴纹",
+      "bName": "云雷双夔纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-127",
+      "aName": "兽面中轴纹",
+      "bName": "竹节连枝穿插纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-128",
+      "aName": "兽面中轴纹",
+      "bName": "兽面四隅纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-128",
+      "aName": "兽面中轴纹",
+      "bName": "冰裂梅影连环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-129",
+      "aName": "兽面中轴纹",
+      "bName": "夔龙四隅纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-129",
+      "aName": "兽面中轴纹",
+      "bName": "步锦海棠连环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-130",
+      "aName": "兽面中轴纹",
+      "bName": "凤鸟四隅纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-130",
+      "aName": "兽面中轴纹",
+      "bName": "六角龟背连环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-131",
+      "aName": "兽面中轴纹",
+      "bName": "蟠虺四隅纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-131",
+      "aName": "兽面中轴纹",
+      "bName": "万字回环连环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-132",
+      "aName": "兽面中轴纹",
+      "bName": "窃曲四隅纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-132",
+      "aName": "兽面中轴纹",
+      "bName": "如意云头连环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-133",
+      "aName": "兽面中轴纹",
+      "bName": "乳钉四隅纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-133",
+      "aName": "兽面中轴纹",
+      "bName": "葵花套方连环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-134",
+      "aName": "兽面中轴纹",
+      "bName": "云雷四隅纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-134",
+      "aName": "兽面中轴纹",
+      "bName": "竹节连枝连环纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-135",
+      "aName": "兽面中轴纹",
+      "bName": "兽面层栏纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-135",
+      "aName": "兽面中轴纹",
+      "bName": "冰裂梅影框景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-136",
+      "aName": "兽面中轴纹",
+      "bName": "夔龙层栏纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-136",
+      "aName": "兽面中轴纹",
+      "bName": "步锦海棠框景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-137",
+      "aName": "兽面中轴纹",
+      "bName": "凤鸟层栏纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-137",
+      "aName": "兽面中轴纹",
+      "bName": "六角龟背框景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-138",
+      "aName": "兽面中轴纹",
+      "bName": "蟠虺层栏纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-138",
+      "aName": "兽面中轴纹",
+      "bName": "万字回环框景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-BZ-100",
+      "b": "LW-BZ-139",
+      "aName": "兽面中轴纹",
+      "bName": "窃曲层栏纹"
+    },
+    {
+      "distance": 3,
+      "a": "LW-BZ-100",
+      "b": "LW-GW-139",
+      "aName": "兽面中轴纹",
+      "bName": "如意云头框景纹"
+    },
+    {
+      "distance": 0,
+      "a": "LW-SO-100",
+      "b": "LW-SO-101",
+      "aName": "梅鹊折枝纹",
+      "bName": "松鹤折枝纹"
+    }
+  ]
+}
