@@ -4,7 +4,9 @@
 
 ## 在线体验
 
-- GitHub Pages：https://wsylnbgw789.github.io/wenmai/
+- GitHub Pages：https://dmo-ai.github.io/wenmai/
+- 纹样库：https://dmo-ai.github.io/wenmai/library.html
+- 服务与购买方式：https://dmo-ai.github.io/wenmai/commerce.html（按次方案，试点后定价；目前不收款）
 - 项目展示：https://wenmai-ai-design.juniorquinter-omjrja.chatgpt.site
 
 ## 本地运行
