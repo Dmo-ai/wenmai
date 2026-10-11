@@ -52,3 +52,23 @@ test('existing account can sign in and read only via authenticated request', asy
   assert.ok(!source.includes('service_role'));
 });
 
+test('failed sign-in clears the password and never opens the account panel', async () => {
+  const ids = ['login-form','login-button','login-message','login-panel','account-panel','user-email','orders','logout-button','email','password'];
+  const nodes = Object.fromEntries(ids.map(id => [id, element()]));
+  nodes.email.value = 'member@example.com';
+  nodes.password.value = 'incorrect-password';
+  const storage = new Map();
+  const context = {
+    document:{getElementById:id=>nodes[id],createElement:()=>element()},
+    sessionStorage:{getItem:key=>storage.get(key)||null,setItem:(key,value)=>storage.set(key,value),removeItem:key=>storage.delete(key)},
+    fetch:async()=>({ok:false,status:400,json:async()=>({msg:'Invalid login credentials'})}),
+    Date, JSON, Number, Error, Array,
+  };
+  vm.runInNewContext(source, context);
+  await nodes['login-form'].handlers.get('submit')({preventDefault(){}});
+  assert.equal(nodes.password.value,'');
+  assert.match(nodes['login-message'].textContent,/邮箱或密码不正确/);
+  assert.ok(nodes['account-panel'].classList.contains('hidden'));
+  assert.equal(storage.size,0);
+});
+
