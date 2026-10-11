@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="纹脉账户内测入口：已验证账号登录与个人订单查看。">
+  <title>我的账户｜纹脉 LingWen</title>
+  <style>
+    :root{--paper:#f7f1e7;--card:#fffaf3;--ink:#241d19;--muted:#625850;--red:#8f2824;--line:#d9cec0}
+    *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.65 "PingFang SC","Microsoft YaHei",sans-serif}a{color:var(--red)}button,input{font:inherit}button{cursor:pointer}button:disabled{cursor:wait;opacity:.6}a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--red);outline-offset:3px}.shell{width:min(920px,calc(100% - 36px));margin:auto}
+    header{background:#fffaf3;border-bottom:1px solid var(--line)}nav{min-height:72px;display:flex;align-items:center;justify-content:space-between;gap:16px}.brand{text-decoration:none;font-weight:850;color:var(--ink);font-size:19px}.brand span{display:inline-grid;place-items:center;width:36px;height:36px;background:var(--red);color:#fff;border-radius:11px;margin-right:8px;font:23px KaiTi,serif}.navlinks{display:flex;gap:17px;flex-wrap:wrap}.navlinks a{text-decoration:none;font-weight:700}
+    main{padding:58px 0 90px}.eyebrow{color:var(--red);font-weight:850;font-size:13px;letter-spacing:.15em}h1,h2{font-family:STSong,SimSun,serif;line-height:1.2}h1{font-size:clamp(39px,6vw,62px);margin:14px 0}h2{font-size:29px;margin:0 0 17px}.lead{max-width:700px;color:var(--muted);font-size:18px;margin-bottom:32px}.columns{display:grid;grid-template-columns:minmax(300px,1fr) minmax(280px,.9fr);gap:22px}.panel{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:28px}.panel p{color:var(--muted)}label{display:block;font-weight:750;margin:16px 0 6px}input{width:100%;min-height:48px;padding:10px 13px;border:1px solid #b9a99a;border-radius:10px;background:#fff;color:var(--ink)}.primary,.secondary{min-height:48px;border-radius:999px;padding:10px 20px;font-weight:800}.primary{border:1px solid var(--red);background:var(--red);color:#fff}.secondary{border:1px solid var(--line);background:transparent;color:var(--ink)}form .primary{width:100%;margin-top:24px}.message{min-height:30px;font-weight:700;color:var(--red);margin-top:16px}.message.ok{color:#285d42}.quiet{font-size:14px}.hidden{display:none!important}.order{border-top:1px solid var(--line);padding:14px 0}.order b{display:block}.order small{color:var(--muted)}.notice{border-left:4px solid var(--red);background:#efe4d7;padding:16px 19px;margin-top:24px}.notice p{margin:0}footer{padding:28px 0;background:#201d1a;color:#f1e6d9}footer a{color:#f3d5ad}@media(max-width:720px){.columns{grid-template-columns:1fr}.panel{padding:23px}main{padding-top:42px}nav{align-items:flex-start;flex-direction:column;padding:13px 0}}
+  </style>
+</head>
+<body>
+  <header><nav class="shell"><a class="brand" href="index.html"><span>纹</span>纹脉 LingWen</a><div class="navlinks"><a href="index.html">首页</a><a href="library.html">纹样库</a><a href="commerce.html">服务与购买方式</a></div></nav></header>
+  <main class="shell"><span class="eyebrow">ACCOUNT · LIMITED TEST</span><h1>我的账户</h1><p class="lead">当前仅供已有、已完成邮箱验证的测试账号登录。公开注册、付费下单和正式交付还未开放；不需要登录也可以浏览概念展示。</p>
+    <div class="columns"><section class="panel" id="login-panel"><h2>已有账号登录</h2><form id="login-form"><label for="email">邮箱</label><input id="email" name="email" type="email" autocomplete="username" required><label for="password">密码</label><input id="password" name="password" type="password" autocomplete="current-password" required minlength="6"><button class="primary" id="login-button" type="submit">登录</button></form><p id="login-message" class="message" role="status" aria-live="polite"></p><p class="quiet">还没有账号？目前不开放公众注册。请勿在此输入任何支付信息。</p></section>
+    <section class="panel hidden" id="account-panel"><h2>账户概览</h2><p>当前账号：<strong id="user-email"></strong></p><button class="secondary" id="logout-button" type="button">退出登录</button><h2 style="margin-top:34px">我的订单</h2><div id="orders" aria-live="polite">正在读取订单…</div><p class="quiet">订单只在支付服务端核验后创建。当前无在线购买入口。</p></section>
+    <aside class="panel"><h2>账户如何运作</h2><p><strong>登录</strong>用 Supabase 验证账号，浏览器不会把密码发给纹脉静态网页服务器。</p><p><strong>订单</strong>由数据库按用户身份隔离；仅登录本人可读，网页不能自行创建付款记录或下载权益。</p><p><strong>正式开放前</strong>还需配置生产邮件、支付核验、隐私说明和私有文件交付。</p></aside></div>
+    <div class="notice"><p>安全提示：当前为内测账户页。不要使用与重要账号相同的密码；发现异常请退出登录。纹样概念样例不等于商用授权。</p></div>
+  </main>
+  <footer><div class="shell">© 2026 纹脉 LingWen · 账户内测阶段　<a href="commerce.html">查看服务开放状态</a></div></footer>
+  <script src="account.js" defer></script>
+</body>
+</html>
+
