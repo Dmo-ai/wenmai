@@ -89,9 +89,12 @@
   });
   logoutButton.addEventListener('click', async () => {
     logoutButton.disabled = true;
-    try { if (session) await request('/auth/v1/logout?scope=local', {method:'POST', token: await validToken()}); }
+    let serverConfirmed = false;
+    try { if (session) { await request('/auth/v1/logout?scope=local', {method:'POST', token: await validToken()}); serverConfirmed = true; } }
     catch (_) { /* Local tokens are still discarded. */ }
-    clearSession(); announce('已退出登录', true); logoutButton.disabled = false;
+    clearSession();
+    announce(serverConfirmed ? '已退出登录' : '已清除本浏览器登录信息，但服务器注销未确认；请勿在共享设备上继续使用。', serverConfirmed);
+    logoutButton.disabled = false;
   });
   try {
     const stored = sessionStorage.getItem(storageKey);
