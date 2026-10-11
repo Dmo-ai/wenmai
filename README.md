@@ -7,6 +7,7 @@
 - GitHub Pages：https://dmo-ai.github.io/wenmai/
 - 纹样库：https://dmo-ai.github.io/wenmai/library.html
 - 服务与购买方式：https://dmo-ai.github.io/wenmai/commerce.html（按次方案，试点后定价；目前不收款）
+- 账户内测：https://dmo-ai.github.io/wenmai/account.html（仅已有、已验证测试账号可登录；公众注册未开放）
 - 项目展示：https://wenmai-ai-design.juniorquinter-omjrja.chatgpt.site
 
 ## 本地运行
